@@ -1,2 +1,2 @@
 # bedrock-resume-analyzer
-implementation off bedrock
+implementation of bedrock
